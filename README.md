@@ -4,4 +4,4 @@
 [See PDF](https://github.com/AyameO/Seminor2018FS/issues/1)
 
 * TaskingManagerマニュアル動画
-[See the video](https://youtu.be/2DmmYVlS4TA)
+[See the video](https://youtu.be/-tkZym5L0KI)
