@@ -13,3 +13,4 @@
 * [2018/5/25"地図インフラ格差"](https://medium.com/furuhashilab/%E5%9C%B0%E5%9B%B3%E3%82%A4%E3%83%B3%E3%83%95%E3%83%A9%E6%A0%BC%E5%B7%AE-3d6c58bb629a)
 * [2018/5/31"Je soutiens Médecins Sans Frontières"](https://medium.com/furuhashilab/je-soutiens-m%C3%A9decins-sans-fronti%C3%A8res-ea8dcdd72e5a)
 * [2018/6/1"東大、渡邉研究室訪問記"](https://medium.com/furuhashilab/%E6%9D%B1%E5%A4%A7-%E6%B8%A1%E9%82%89%E7%A0%94%E7%A9%B6%E5%AE%A4%E8%A8%AA%E5%95%8F%E8%A8%98-3f154802c90c)
+* [2018/6/3"100%の復興は絶対にない 3.11"](https://medium.com/furuhashilab/100-%E3%81%AE%E5%BE%A9%E8%88%88%E3%81%AF%E7%B5%B6%E5%AF%BE%E3%81%AB%E3%81%AA%E3%81%84-3-11-92764b0c11d2)
