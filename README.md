@@ -6,6 +6,7 @@
 [See the video](https://youtu.be/-tkZym5L0KI)
 * 長野県大町市で鹿島川での空撮　[ビデオ](https://www.facebook.com/ayame.otsuki/videos/1086672491474133/?t=20)　[画像](https://user-images.githubusercontent.com/13360878/40784397-880d6cc0-6520-11e8-8ef9-86030a7cf567.jpg)  
 * 福島県いわき市での空撮 [See pic](https://www.skypixel.com/users/a-13e-pon)
+* ホームページサンプル [See web](https://furuhashilab.github.io/www4ayameO/)
 ## 活動ブログ2018年度
 * [2018/5/6"GWゼミ合宿@森の中"](https://medium.com/furuhashilab/gw%E3%82%BC%E3%83%9F%E5%90%88%E5%AE%BF-%E5%A4%A7%E7%94%BA-%E6%A3%AE%E3%81%8F%E3%82%89-92703323d298)
 * [2018/5/12"OpenStreetMapに足りないモノ"](https://medium.com/furuhashilab/openstreetmap%E3%81%AB%E8%B6%B3%E3%82%8A%E3%81%AA%E3%81%84%E3%83%A2%E3%83%8E-e1bf1853e5ce)
