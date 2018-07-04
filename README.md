@@ -8,7 +8,7 @@
 * 福島県いわき市での空撮 [See pic](https://www.skypixel.com/users/a-13e-pon)
 * 埼玉県横瀬町の棚田での空撮[See movie](https://www.youtube.com/watch?v=qJAtC3ScgeA)
 * 活動紹介用WEB [See web](https://furuhashilab.github.io/www4ayameO/)
-* Custam Maps [See Maps](https://umap.openstreetmap.fr/ja/user/AYAME_AGU/)
+* Custom Maps [See Maps](https://umap.openstreetmap.fr/ja/user/AYAME_AGU/)
 
 ## 活動ブログ2018年度
 * [2018/5/6"GWゼミ合宿@森の中"](https://medium.com/furuhashilab/gw%E3%82%BC%E3%83%9F%E5%90%88%E5%AE%BF-%E5%A4%A7%E7%94%BA-%E6%A3%AE%E3%81%8F%E3%82%89-92703323d298)
