@@ -1,5 +1,6 @@
 # Seminor2018
 ## 2018年度ゼミの成果物
+* 活動紹介用WEB [See web](https://furuhashilab.github.io/www4ayameO/)
 * 4/18 大和市長 大木哲さんのグラレコ
 [See PDF](https://user-images.githubusercontent.com/13360878/38985498-7d866578-4404-11e8-8745-c6dd491cc734.png)
 * TaskingManagerマニュアル動画
@@ -7,7 +8,6 @@
 * 長野県大町市で鹿島川での空撮　[ビデオ](https://www.facebook.com/ayame.otsuki/videos/1086672491474133/?t=20)　[画像](https://user-images.githubusercontent.com/13360878/40784397-880d6cc0-6520-11e8-8ef9-86030a7cf567.jpg)  
 * 福島県いわき市での空撮 [See pic](https://www.skypixel.com/users/a-13e-pon)
 * 埼玉県横瀬町の棚田での空撮[See movie](https://www.youtube.com/watch?v=qJAtC3ScgeA)
-* 活動紹介用WEB [See web](https://furuhashilab.github.io/www4ayameO/)
 * Custom Maps [See Maps](https://umap.openstreetmap.fr/ja/user/AYAME_AGU/)
 
 ## 活動ブログ2018年度
