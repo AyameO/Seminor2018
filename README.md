@@ -8,7 +8,7 @@
 * 長野県大町市で鹿島川での空撮　[ビデオ](https://www.facebook.com/ayame.otsuki/videos/1086672491474133/?t=20)　[画像](https://user-images.githubusercontent.com/13360878/40784397-880d6cc0-6520-11e8-8ef9-86030a7cf567.jpg)  
 * 福島県いわき市での空撮 [See pic](https://www.skypixel.com/users/a-13e-pon)
 * 埼玉県横瀬町の棚田での空撮[See movie](https://www.youtube.com/watch?v=qJAtC3ScgeA)
-* Custom Maps [See Maps](https://umap.openstreetmap.fr/ja/user/AYAME_AGU/)
+* カスタムマップ(Umap) [See Maps](https://umap.openstreetmap.fr/ja/user/AYAME_AGU/)
 
 ## 活動ブログ2018年度
 * [2018/5/6"GWゼミ合宿@森の中"](https://medium.com/furuhashilab/gw%E3%82%BC%E3%83%9F%E5%90%88%E5%AE%BF-%E5%A4%A7%E7%94%BA-%E6%A3%AE%E3%81%8F%E3%82%89-92703323d298)
