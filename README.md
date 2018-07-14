@@ -1,6 +1,7 @@
 # Seminor2018
 ## 2018年度ゼミの成果物
 * 活動紹介用WEB [See web](https://furuhashilab.github.io/www4ayameO/)
+* 伊豆大島ドローン[See video](https://youtu.be/I_GAsEBtfyg)
 * 4/18 大和市長 大木哲さんのグラレコ
 [See PDF](https://user-images.githubusercontent.com/13360878/38985498-7d866578-4404-11e8-8745-c6dd491cc734.png)
 * TaskingManagerマニュアル動画
