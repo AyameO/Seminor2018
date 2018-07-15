@@ -24,4 +24,5 @@
 * [2018/6/24"武甲山って知ってる？"](https://medium.com/furuhashilab/%E6%AD%A6%E7%94%B2%E5%B1%B1%E3%81%A3%E3%81%A6%E7%9F%A5%E3%81%A3%E3%81%A6%E3%82%8B-96f16e6d815d)
 * [2018/7/1"OSMの編集ツール、もくじ"](https://medium.com/furuhashilab/osm%E3%81%AE%E7%B7%A8%E9%9B%86%E3%83%84%E3%83%BC%E3%83%AB-%E3%82%82%E3%81%8F%E3%81%98-b47d3410fe4f)
 * [2018/7/6"JOSMというツール"](https://medium.com/furuhashilab/josm%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-4e07cac389af)
+* [2018/7/16"ゼミ合宿＠伊豆大島"](https://medium.com/furuhashilab/%E3%82%BC%E3%83%9F%E5%90%88%E5%AE%BF-%E4%BC%8A%E8%B1%86%E5%A4%A7%E5%B3%B6-88ed09b33fa7)
 
