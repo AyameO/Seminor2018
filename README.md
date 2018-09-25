@@ -2,10 +2,7 @@
 
 ## Custom Map [uMap](https://umap.openstreetmap.fr/ja/user/AYAME_AGU/)
 
-<img width="1343" alt="2018-05-28" src="https://user-images.githubusercontent.com/13360878/41278709-7dc9c81e-6e65-11e8-82bb-a4f6cba9462e.png">
-
 ## Drone movie
-
 * ドローン空撮[YouTube](https://www.youtube.com/channel/UCBzJK-q1JFZiT4_YsPxSwsw)、[SKYPIXEL](https://www.skypixel.com/users/a-13e-pon)
 * 伊豆大島ドローン[See video](https://youtu.be/I_GAsEBtfyg)
 * 長野県大町市で鹿島川での空撮　[ビデオ](https://www.facebook.com/ayame.otsuki/videos/1086672491474133/?t=20)　[画像](https://user-images.githubusercontent.com/13360878/40784397-880d6cc0-6520-11e8-8ef9-86030a7cf567.jpg)  
@@ -45,3 +42,4 @@
 * [2018/９/14"タンザニアとケニア、わたし。"](https://medium.com/furuhashilab/%E3%82%BF%E3%83%B3%E3%82%B6%E3%83%8B%E3%82%A2%E3%81%A8%E3%82%B1%E3%83%8B%E3%82%A2-%E3%82%8F%E3%81%9F%E3%81%97-92c393ed3c4e)
 * [2018/９/16"maps.meというツール"](https://medium.com/furuhashilab/maps-me%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-eb086f2a6d06)
 * [2018/９/21"翻訳ソンって聞いたことある？"](https://medium.com/furuhashilab/%E7%BF%BB%E8%A8%B3%E3%82%BD%E3%83%B3%E3%81%A3%E3%81%A6%E8%81%9E%E3%81%84%E3%81%9F%E3%81%93%E3%81%A8%E3%81%82%E3%82%8B-9c88133463b)
+* [2018/9/25"Mapillaryというツール"](https://medium.com/furuhashilab/mapillary%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-e6f19c6fb668)
