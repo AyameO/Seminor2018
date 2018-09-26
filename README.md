@@ -45,3 +45,4 @@
 * [2018/9/16"maps.meというツール"](https://medium.com/furuhashilab/maps-me%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-eb086f2a6d06)
 * [2018/9/21"翻訳ソンって聞いたことある？"](https://medium.com/furuhashilab/%E7%BF%BB%E8%A8%B3%E3%82%BD%E3%83%B3%E3%81%A3%E3%81%A6%E8%81%9E%E3%81%84%E3%81%9F%E3%81%93%E3%81%A8%E3%81%82%E3%82%8B-9c88133463b)
 * [2018/9/25"Mapillaryというツール"](https://medium.com/furuhashilab/mapillary%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-e6f19c6fb668)
+* [2018/9/27"ゼミ合宿＠山中湖"](https://medium.com/@a.13e.pon/%E3%82%BC%E3%83%9F%E5%90%88%E5%AE%BF-%E5%B1%B1%E4%B8%AD%E6%B9%96-a3df819e1789)
