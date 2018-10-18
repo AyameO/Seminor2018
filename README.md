@@ -49,3 +49,5 @@
 * [2018/9/27"ゼミ合宿＠森くら(今期２回目)"](https://medium.com/furuhashilab/%E3%82%BC%E3%83%9F%E5%90%88%E5%AE%BF-%E6%A3%AE%E3%81%8F%E3%82%89-%E4%BB%8A%E6%9C%9F%EF%BC%92%E5%9B%9E%E7%9B%AE-376a67a531b1)
 * [2018/10/8"Go Map!!というツール"](https://medium.com/furuhashilab/go-map-%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-70a42718689f)
 * [2018/10/14"Mapswipeというツール"](https://medium.com/furuhashilab/mapswipe%E3%81%A8%E3%81%84%E3%81%86%E3%83%84%E3%83%BC%E3%83%AB-15111f661782)
+* [2018/10/18"東村市防災訓練活動記
+"](https://medium.com/furuhashilab/%E6%9D%B1%E6%9D%91%E5%B8%82%E9%98%B2%E7%81%BD%E8%A8%93%E7%B7%B4%E6%B4%BB%E5%8B%95%E8%A8%98-6b3e52ef5a16)
