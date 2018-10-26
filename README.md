@@ -17,6 +17,7 @@
 ## Share works
 * 古橋研究室合同[OSMアカウント](https://www.openstreetmap.org/user/furuhashilab)
 * 古橋研究室合同[uMapアカウント](https://umap.openstreetmap.fr/ja/user/furuhashilab/)
+* 古橋研究室合同[YouTubeアカウント](https://www.youtube.com/channel/UC7ibSx7RwsxQPGjHX0ab5TQ)
 
 
 
