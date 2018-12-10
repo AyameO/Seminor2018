@@ -2,7 +2,7 @@
 
 ## Custom Map [uMap](https://umap.openstreetmap.fr/ja/user/AYAME_AGU/)
 
-## Graduation work [GitHub](https://github.com/furuhashilab/BCr.map)
+## Graduation work [BCr.map](https://github.com/furuhashilab/BCr.map)
 
 ## Graphic Recording [Issues](https://github.com/AyameO/Seminor2018/issues/1)
 
